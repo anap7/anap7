@@ -11,6 +11,5 @@
 - Tenho 6 gatos :cat:
 - Aprendendo e evoluindo com Next.js e outras maravilhas do JavaScript :heart_eyes_cat:
 - Nas horas vagas eu estudo Python voltado para Machine Learning :snake:
-- Às vezes rola um estudo de Java nos fins de semana :dizzy_face: :coffee:
 
 
