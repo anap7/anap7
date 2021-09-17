@@ -11,6 +11,3 @@
 - Tenho 6 gatos :cat:
 - Aprendendo e evoluindo com Next.js e outras maravilhas do JavaScript :heart_eyes_cat:
 
-### Avisinho
-No momento não tem nenhum projeto interessante por motivos de: sem tempo irmão. Paciência :information_desk_person:
-
