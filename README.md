@@ -6,7 +6,6 @@
 
 ### About me
 
-- Sou desenvolvedora web e mobile, atualmente trabalho em uma equipe focada em desenvolvimento de MVPs e POCs para o cliente Klabin 🌱
 - Tenho 22 anos :ok_woman:
-- Tenho 6 gatos :cat:
+- Tenho 7 gatos :cat:
 
